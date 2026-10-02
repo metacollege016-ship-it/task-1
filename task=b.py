@@ -1,3 +1,4 @@
 a = int(input())
-print(f"The next number for the number {a} is {a+1}.")
-print(f"The previous number for the next number {a} is {a-1}.")
+b = int(input())
+c = b//a
+print(c)
